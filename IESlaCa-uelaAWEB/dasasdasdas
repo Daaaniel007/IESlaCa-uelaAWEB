@@ -1,0 +1,158 @@
+[33mcommit a64652f73d9e33ca0b2875a31b03850f64809451[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrama-local[m[33m)[m
+Author: Daaaniel007 <danielfuentesse@gmail.com>
+Date:   Tue May 20 13:27:51 2025 +0200
+
+    Creacion de carpeta y subida de imagen
+
+ img/github.png | Bin [31m0[m -> [32m101388[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 20656ed011ae34b4a77e377867313dfe256c1387[m
+Author: Daaaniel007 <danielfuentesse@gmail.com>
+Date:   Mon May 19 21:41:30 2025 +0200
+
+    Creacion de carpeta y subida de imagen
+
+ img/descarga.png | Bin [31m0[m -> [32m4539[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 27ae2d4633df71d57f8caf6eba02df8e94cf9d91[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 12:23:35 2025 +0200
+
+    Update README.md
+
+ Actividades/README.md | 11 [32m++++[m[31m-------[m
+ 1 file changed, 4 insertions(+), 7 deletions(-)
+
+[33mcommit f6afc2592973b03bb453145cc563f6f7074c9a7f[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 12:19:50 2025 +0200
+
+    Add files via upload
+
+ Actividades/1.commit/README.md       | 55 [32m+++++++++++++++++++++++++[m
+ Actividades/1.commit/sandwich.txt    |  4 [32m++[m
+ Actividades/2.branchs/README.md      | 78 [32m++++++++++++++++++++++++++++++++++++[m
+ Actividades/2.branchs/pizza.txt      |  3 [32m++[m
+ Actividades/3.conflicts/README.md    | 48 [32m++++++++++++++++++++++[m
+ Actividades/3.conflicts/milanesa.txt |  2 [32m+[m
+ Actividades/README.md                | 54 [32m+++++++++++++++++++++++++[m
+ 7 files changed, 244 insertions(+)
+
+[33mcommit 9d8e0e2b6cf30f98c92b1a78f14aeeee44b4e3bb[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 12:18:57 2025 +0200
+
+    Delete tallergitprog1-main directory
+
+ tallergitprog1-main/1.commit/README.md       | 55 [31m--------------------[m
+ tallergitprog1-main/1.commit/sandwich.txt    |  4 [31m--[m
+ tallergitprog1-main/2.branchs/README.md      | 78 [31m----------------------------[m
+ tallergitprog1-main/2.branchs/pizza.txt      |  3 [31m--[m
+ tallergitprog1-main/3.conflicts/README.md    | 48 [31m-----------------[m
+ tallergitprog1-main/3.conflicts/milanesa.txt |  2 [31m-[m
+ tallergitprog1-main/README.md                | 54 [31m-------------------[m
+ 7 files changed, 244 deletions(-)
+
+[33mcommit 88fecc16a122d865f9d8558fc4cef1eedd2f209b[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 12:17:39 2025 +0200
+
+    Add files via upload
+
+ tallergitprog1-main/1.commit/README.md       | 55 [32m++++++++++++++++++++[m
+ tallergitprog1-main/1.commit/sandwich.txt    |  4 [32m++[m
+ tallergitprog1-main/2.branchs/README.md      | 78 [32m++++++++++++++++++++++++++++[m
+ tallergitprog1-main/2.branchs/pizza.txt      |  3 [32m++[m
+ tallergitprog1-main/3.conflicts/README.md    | 48 [32m+++++++++++++++++[m
+ tallergitprog1-main/3.conflicts/milanesa.txt |  2 [32m+[m
+ tallergitprog1-main/README.md                | 54 [32m+++++++++++++++++++[m
+ 7 files changed, 244 insertions(+)
+
+[33mcommit 3a7d2855c5b4f45be24cdfef97d8cbde7affedc9[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 11:27:56 2025 +0200
+
+    Update estilos
+    
+    Añado 6 g extra al final de la línea 4
+
+ carpeta_1/estilos | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit dac6aed44b369c825b775155c6083a34a8410c69[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 11:15:24 2025 +0200
+
+    Rename estilos.md to estilos
+
+ carpeta_1/{estilos.md => estilos} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit b15c251307a269207133e51078f926c31846f28d[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 10:42:50 2025 +0200
+
+    Update estilos.md
+    
+    Añado un segundo título.
+    Borro la palabra grammar de la primera línea
+
+ carpeta_1/estilos.md | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 4327ba9c46eff663d9662d0b0f9eabb8a2157597[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 10:32:24 2025 +0200
+
+    Update and rename archivo_1.md to estilos.md
+
+ carpeta_1/archivo_1.md |  1 [31m-[m
+ carpeta_1/estilos.md   | 83 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 2 files changed, 83 insertions(+), 1 deletion(-)
+
+[33mcommit 67da0bbeaf54bd874566cea5341487697160f75f[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 12 10:27:12 2025 +0200
+
+    Create archivo_1.md
+
+ carpeta_1/archivo_1.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 167f211b33d87aeb4f1ed06c8e60850b41d849fb[m
+Merge: 175fc71 ddcaf01
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon May 5 11:25:10 2025 +0200
+
+    Merge pull request #1 from Lidia-lcm/rama-local
+    
+    Creacion de carpeta y subida de imagen
+
+[33mcommit ddcaf01a24fc71fe4a48588bc371ccdcccebd1a1[m[33m ([m[1;31morigin/rama-local[m[33m)[m
+Author: Lidia La Cal <lidialacalm@gmail.com>
+Date:   Mon May 5 11:00:01 2025 +0200
+
+    Creacion de carpeta y subida de imagen
+
+ img/logo_github.jpg | Bin [31m0[m -> [32m34330[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 175fc71ddee6effbea666b05d598d1ed758562d7[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon Apr 28 10:40:08 2025 +0200
+
+    Update README.md
+
+ README.md | 30 [32m+++++++++++++++++++++++++++++[m[31m-[m
+ 1 file changed, 29 insertions(+), 1 deletion(-)
+
+[33mcommit 7103b6ae7bf65fa34a6b34d88384e08cb3aa6234[m
+Author: Lidia-lcm <lidialacalm@gmail.com>
+Date:   Mon Apr 28 10:01:29 2025 +0200
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
